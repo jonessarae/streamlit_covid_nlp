@@ -56,7 +56,6 @@ defusedxml==0.6.0
 distlib==0.3.1
 distributed==2.5.2
 docutils==0.15.2
-en-core-sci-lg @ file:///C:/Users/jonesse3/Downloads/en_core_sci_lg-0.3.0.tar.gz
 en-core-web-sm==2.3.1
 entrypoints==0.3
 et-xmlfile==1.0.1
